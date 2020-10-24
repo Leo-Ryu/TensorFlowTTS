@@ -2,13 +2,13 @@
 <p> :yum: TensorFlowTTS
 <p align="center">
     <a href="https://github.com/tensorspeech/TensorFlowTTS/actions">
-        <img alt="Build" src="https://github.com/tensorspeech/TensorFlowTTS/workflows/CI/badge.svg?branch=master">
+        <img alt="Build" src="https://github.com/tensorspeech/TensorFlowTTS/workflows/CI/badge.svg?branch=master"/>
     </a>
     <a href="https://github.com/tensorspeech/TensorFlowTTS/blob/master/LICENSE">
-        <img alt="GitHub" src="https://img.shields.io/github/license/tensorspeech/TensorflowTTS?color=red">
+        <img alt="GitHub" src="https://img.shields.io/github/license/tensorspeech/TensorflowTTS?color=red"/>
     </a>
     <a href="https://colab.research.google.com/drive/1akxtrLZHKuMiQup00tzO2olCaN-y3KiD?usp=sharing">
-        <img alt="Colab" src="https://colab.research.google.com/assets/colab-badge.svg">
+        <img alt="Colab" src="https://colab.research.google.com/assets/colab-badge.svg"/>
     </a>
 </p>
 </h2>
